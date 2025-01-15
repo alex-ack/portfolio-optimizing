@@ -14,6 +14,6 @@ portfolio B (boring long-term one):
 
 rules to not forget:
 - can't put more than 20k in one stock
-- keep some cash (>2.5k)
+- don't keep cash (<2.5k)
 - each trade costs $10
 - no penny stocks
