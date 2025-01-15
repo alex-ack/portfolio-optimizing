@@ -1,6 +1,5 @@
 # stock project notes 📈
 
-here's the plan:
 
 portfolio A (trading one):
 - gotta do 54 trades by may 3rd
